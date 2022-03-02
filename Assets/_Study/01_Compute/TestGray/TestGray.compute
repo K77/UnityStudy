@@ -1,0 +1,20 @@
+﻿#pragma kernel CSMain
+
+// ( CPU -> GPU )
+Texture2D inputTexture;
+
+// ( GPU -> CPU )
+RWTexture2D <float4> outputTexture;
+
+[numthreads(1, 1, 1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+    float R = inputTexture[id.xy].r;
+    float G = inputTexture[id.xy].g;
+    float B = inputTexture[id.xy].b;
+    float A = 1;
+
+    float Y = R * 0.299 + G * 0.587 + B * 0.114; // RGB 轉 灰階
+
+    outputTexture[id.xy] = float4(Y, Y, Y, A); // 丟回 CPU
+}
