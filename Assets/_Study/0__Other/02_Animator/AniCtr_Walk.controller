@@ -13,9 +13,9 @@ AnimatorState:
   m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
+  m_IKOnFeet: 1
+  m_WriteDefaultValues: 0
+  m_Mirror: 1
   m_SpeedParameterActive: 0
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
@@ -72,24 +72,18 @@ AnimatorController:
   m_Name: AniCtr_Walk
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Height
+  - m_Name: SpeedX
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
-  - m_Name: Speed
+    m_Controller: {fileID: 9100000}
+  - m_Name: SpeedY
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
-  - m_Name: Dir
-    m_Type: 1
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -184,7 +178,7 @@ BlendTree:
     m_Motion: {fileID: 7400000, guid: f0b974ed49d5f4675a2bcebcb77156ec, type: 2}
     m_Threshold: 0.6
     m_Position: {x: 1, y: 0}
-    m_TimeScale: 1
+    m_TimeScale: -1
     m_CycleOffset: 0.5
     m_DirectBlendParameter: Height
     m_Mirror: 1
@@ -196,18 +190,10 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Height
     m_Mirror: 0
-  - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: e9b50f078b62d8e449242b537084fdd2, type: 2}
-    m_Threshold: 0.9920372
-    m_Position: {x: 0, y: 0}
-    m_TimeScale: 1
-    m_CycleOffset: 0
-    m_DirectBlendParameter: Height
-    m_Mirror: 0
-  m_BlendParameter: Speed Y
-  m_BlendParameterY: SPEED X
+  m_BlendParameter: SpeedY
+  m_BlendParameterY: SpeedX
   m_MinThreshold: 0.028776888
   m_MaxThreshold: 0.9920372
   m_UseAutomaticThresholds: 0
   m_NormalizedBlendValues: 0
-  m_BlendType: 0
+  m_BlendType: 2
