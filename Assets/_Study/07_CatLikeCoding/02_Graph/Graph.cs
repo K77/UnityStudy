@@ -6,25 +6,44 @@ public class Graph : MonoBehaviour
 {
     [SerializeField] private Transform pointPrefab;
     [SerializeField]
-    int resolution = 10;
+    int resolution = 55; 
+    [SerializeField]
+    int indFunc = 0;
+
+    private Transform[] points;// = new List<Transform>();
     // Start is called before the first frame update
     void Start()
     {
         float step = 2f / resolution;
         var position = Vector3.zero;
-        var scale = Vector3.one * step;
-        for (int i = 0; i < resolution; i++) {
-            Transform point = Instantiate(pointPrefab);
-            position.x = (i + 0.5f) * step - 1f;
-            position.y = position.x * position.x;
-            point.localPosition = position;
+        var scale = Vector3.one * step *0.7f;
+        points = new Transform[resolution * resolution];
+
+        for (int i = 0, x = 0, z = 0; i < points.Length; i++, x++) {
+            if (x == resolution) {
+                x = 0;
+                z += 1;
+            }
+            Transform point = points[i] = Instantiate(pointPrefab);
             point.localScale = scale;
+            position.x = (x + 0.5f) * step - 1f;
+            position.z = (z + 0.5f) * step - 1f;
+            point.position = position;
         }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        float time = Time.time;
+        Vector3 position;
+        for (int i = 0; i < points.Length; i++)
+        {
+            var func = FunctionLibrary.GetFunction(indFunc);
+            Transform point = points[i];
+            position = point.localPosition;
+            position.y = func(position.x, position.z,time);
+            point.localPosition = position;
+        }
     }
 }
