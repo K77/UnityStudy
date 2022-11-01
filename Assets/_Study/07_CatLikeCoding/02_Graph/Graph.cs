@@ -11,6 +11,7 @@ public class Graph : MonoBehaviour
     int indFunc = 0;
 
     private Transform[] points;// = new List<Transform>();
+    private Vector3[] pos;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,7 +19,8 @@ public class Graph : MonoBehaviour
         var position = Vector3.zero;
         var scale = Vector3.one * step *0.7f;
         points = new Transform[resolution * resolution];
-
+        pos = new Vector3[resolution * resolution];
+        
         for (int i = 0, x = 0, z = 0; i < points.Length; i++, x++) {
             if (x == resolution) {
                 x = 0;
@@ -28,6 +30,7 @@ public class Graph : MonoBehaviour
             point.localScale = scale;
             position.x = (x + 0.5f) * step - 1f;
             position.z = (z + 0.5f) * step - 1f;
+            pos[i] = position;
             point.position = position;
         }
     }
@@ -41,9 +44,8 @@ public class Graph : MonoBehaviour
         {
             var func = FunctionLibrary.GetFunction(indFunc);
             Transform point = points[i];
-            position = point.localPosition;
-            position.y = func(position.x, position.z,time);
-            point.localPosition = position;
+            position = pos[i];
+            point.localPosition = func(position.x, position.z,time);
         }
     }
 }
