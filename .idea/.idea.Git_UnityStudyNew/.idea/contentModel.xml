@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\K\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\K\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Git_UnityStudyNew.1650094736.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Git\Git_UnityStudyNew" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="00_URP" t="Include">
+          <e p="Include" t="Include">
+            <e p="new_shader.shader" t="Include" />
+          </e>
+          <e p="Noise" t="Include">
+            <e p="BurnNoise.shader" t="Include" />
+          </e>
+          <e p="NormalMap" t="Include">
+            <e p="NormalMap.cs" t="Include" />
+            <e p="NormalMap0.shader" t="Include" />
+            <e p="NormalMap1.shader" t="Include" />
+          </e>
+          <e p="Quaternion" t="Include">
+            <e p="K_Quaternion.cs" t="Include" />
+            <e p="Quaternion.shader" t="Include" />
+            <e p="TestQuaternion.cs" t="Include" />
+          </e>
+          <e p="ShaderGraph" t="Include" />
+          <e p="Shadow" t="Include">
+            <e p="LightShadow" t="Include" />
+            <e p="LightShadow.cs" t="Include" />
+          </e>
+          <e p="Stencil" t="Include">
+            <e p="Stencil_Less_1.shader" t="Include" />
+            <e p="Stencil_Set_1.shader" t="Include" />
+          </e>
+          <e p="URP_Lit" t="Include">
+            <e p="lit" t="Include" />
+            <e p="lit.cs" t="Include" />
+            <e p="lit.shader" t="Include" />
+            <e p="NewSurfaceShader.shader" t="Include" />
+          </e>
+          <e p="URP_Unlit" t="Include">
+            <e p="Unlit.cs" t="Include" />
+            <e p="Unlit.shader" t="Include" />
+          </e>
+        </e>
+        <e p="01_Compute" t="Include">
+          <e p="TestCompute" t="Include">
+            <e p="TestCompute.compute" t="Include" />
+            <e p="TestCompute.cs" t="Include" />
+          </e>
+          <e p="TestGray" t="Include">
+            <e p="TestGray.compute" t="Include" />
+            <e p="TestGray.cs" t="Include" />
+          </e>
+        </e>
+        <e p="02_Instance" t="Include">
+          <e p="CB-Procedural" t="Include">
+            <e p="CB_Procedural.cs" t="Include" />
+          </e>
+          <e p="G0-DrawMesh" t="Include">
+            <e p="DrawMesh.cs" t="Include" />
+          </e>
+          <e p="G1-Instanced" t="Include">
+            <e p="Instance_Simple.cs" t="Include" />
+            <e p="Instance_SimpleSurf.shader" t="Include" />
+            <e p="Instance_SimpleVF.shader" t="Include" />
+          </e>
+          <e p="G2-Indirect" t="Include">
+            <e p="Indirect.cs" t="Include" />
+            <e p="Indirect_VF.shader" t="Include" />
+          </e>
+          <e p="G3-Procedural" t="Include">
+            <e p="Procedural.cs" t="Include" />
+            <e p="Procedural_SimpleVF.shader" t="Include" />
+            <e p="Procedural_Surf.shader" t="Include" />
+          </e>
+          <e p="Indirect" t="Include">
+            <e p="InstancedIndirect.cs" t="Include" />
+            <e p="InstancedIndirect.shader" t="Include" />
+            <e p="Unity_Surf_Shader.shader" t="Include" />
+            <e p="Unity_VF_Shader.shader" t="Include" />
+          </e>
+        </e>
+        <e p="03_Dots" t="Include" />
+        <e p="04_Particle" t="Include" />
+        <e p="05_Animation" t="Include" />
+        <e p="06_Res" t="Include">
+          <e p="Editor" t="Include" />
+        </e>
+        <e p="07_CatLikeCoding" t="Include">
+          <e p="01_Clock" t="Include" />
+          <e p="02_Graph" t="Include">
+            <e p="FunctionLibrary.cs" t="Include" />
+            <e p="Graph.cs" t="Include" />
+          </e>
+          <e p="03_GPUGraph" t="Include">
+            <e p="FunctionLibrary.compute" t="Include" />
+            <e p="GPUGraph.cs" t="Include" />
+            <e p="new_shader.shader" t="Include" />
+          </e>
+          <e p="04_Jobs" t="Include">
+            <e p="Fractal.cs" t="Include" />
+          </e>
+        </e>
+        <e p="08-Net" t="Include">
+          <e p="TestNet.cs" t="Include" />
+        </e>
+        <e p="0__Art" t="Include">
+          <e p="Animation" t="Include" />
+          <e p="Avatar" t="Include" />
+          <e p="Sprites" t="Include" />
+        </e>
+        <e p="0__Other" t="Include">
+          <e p="00_ListAction" t="Include">
+            <e p="Test_ListAction.cs" t="Include" />
+          </e>
+          <e p="01_Playable" t="Include">
+            <e p="MainAni.cs" t="Include" />
+            <e p="SimpleAnimationComponent" t="Include">
+              <e p="CustomPlayableExtensions.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="SimpleAnimationComponent-Editor.asmdef" t="Include" />
+                <e p="SimpleAnimationEditor.cs" t="Include" />
+              </e>
+              <e p="SimpleAnimation.cs" t="Include" />
+              <e p="SimpleAnimation_impl.cs" t="Include" />
+              <e p="SimpleAnimationComponent.asmdef" t="Include" />
+              <e p="SimpleAnimationPlayable.cs" t="Include" />
+              <e p="SimpleAnimationPlayable_States.cs" t="Include" />
+              <e p="Tests" t="Include">
+                <e p="AnimationProxy.cs" t="Include" />
+                <e p="IAnimation.cs" t="Include" />
+                <e p="PerformanceTests" t="Include">
+                  <e p="Complex" t="Include" />
+                  <e p="ComplexWithTransition" t="Include">
+                    <e p="SimpleAnimationTransitions.cs" t="Include" />
+                  </e>
+                  <e p="PlayOnce" t="Include" />
+                  <e p="RotateCubes" t="Include" />
+                  <e p="TestUI.cs" t="Include" />
+                </e>
+                <e p="PlaymodeTests" t="Include">
+                  <e p="ComparativeTests" t="Include">
+                    <e p="BaseConditionsTests.cs" t="Include" />
+                    <e p="ClipManagementTests.cs" t="Include" />
+                    <e p="ComparativeTestFixture.cs" t="Include" />
+                    <e p="DifferencesTests.cs" t="Include" />
+                    <e p="MiscTests.cs" t="Include" />
+                    <e p="PlaybackTests.cs" t="Include" />
+                    <e p="QueueTests.cs" t="Include" />
+                    <e p="StateAccessTests.cs" t="Include" />
+                  </e>
+                  <e p="Resources" t="Include" />
+                  <e p="SimpleAnimationTests.cs" t="Include" />
+                </e>
+                <e p="SimpleAnimation-Tests.asmdef" t="Include" />
+                <e p="SimpleAnimationProxy.cs" t="Include" />
+              </e>
+            </e>
+            <e p="TestPlayable_2layer.cs" t="Include" />
+          </e>
+          <e p="02_Animator" t="Include">
+            <e p="TestAnimator.cs" t="Include" />
+          </e>
+          <e p="03_DynamicBatch" t="Include" />
+          <e p="06_Skybox" t="Include">
+            <e p="Cubemaps" t="Include" />
+            <e p="Skybox-PanoramicBeta.shader" t="Include" />
+            <e p="Skybox-PanoramicK.shader" t="Include" />
+            <e p="Skybox-PanoramicUrp.shader" t="Include" />
+          </e>
+          <e p="08_Projector" t="Include">
+            <e p="K_Projector.cs" t="Include" />
+            <e p="Projector.shader" t="Include" />
+          </e>
+          <e p="09_Collision" t="Include">
+            <e p="Collision.cs" t="Include" />
+          </e>
+          <e p="11_DelegateRemove" t="Include">
+            <e p="TestDelegateRemove.cs" t="Include" />
+          </e>
+          <e p="12_Video" t="Include">
+            <e p="TestVideo.cs" t="Include" />
+          </e>
+          <e p="CtrAccelerometer.cs" t="Include" />
+          <e p="CtrGyroscope.cs" t="Include" />
+        </e>
+        <e p="_Study" t="Include" />
+        <e p="AddressableAssetsData" t="Include">
+          <e p="Android" t="Include" />
+          <e p="AssetGroups" t="Include">
+            <e p="Schemas" t="Include" />
+          </e>
+          <e p="AssetGroupTemplates" t="Include" />
+          <e p="DataBuilders" t="Include" />
+          <e p="iOS" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="CreateFileEditor.cs" t="Include" />
+          <e p="Icosahedron.cs" t="Include" />
+          <e p="ScriptsInfoRecoder.cs" t="Include" />
+        </e>
+        <e p="Editor Default Resources" t="Include">
+          <e p="UrpLit.txt" t="Include" />
+          <e p="UrpUnlit.txt" t="Include" />
+        </e>
+        <e p="FpsText.cs" t="Include" />
+        <e p="Plugins" t="Include" />
+        <e p="Settings" t="Include" />
+        <e p="Test" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Git_UnityStudyNew.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SimpleAnimation-Tests.csproj" t="IncludeRecursive" />
+      <e p="SimpleAnimationComponent-Editor.csproj" t="IncludeRecursive" />
+      <e p="SimpleAnimationComponent.csproj" t="IncludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

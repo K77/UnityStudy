@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4611415c-30bb-4885-96d7-a45d9a5de8ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/_Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A1_Idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A1_Idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A1_Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A1_Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A2_CrouchIdle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A2_CrouchIdle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A2_CrouchIdle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A2_CrouchIdle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A3_CrawlIdle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A3_CrawlIdle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A3_CrawlIdle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/A3_CrawlIdle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B1_WalkFront.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B1_WalkFront.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B1_WalkFront.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B1_WalkFront.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B2_CrouchFront.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B2_CrouchFront.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B2_CrouchFront.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B2_CrouchFront.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B3_CrawlFront.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B3_CrawlFront.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B3_CrawlFront.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/B3_CrawlFront.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C1_WalkLeft.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C1_WalkLeft.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C1_WalkLeft.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C1_WalkLeft.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C2_CrouchLeft.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C2_CrouchLeft.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C2_CrouchLeft.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C2_CrouchLeft.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C3_CrawlLeft.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C3_CrawlLeft.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C3_CrawlLeft.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Animation/C3_CrawlLeft.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar/heyiren_1400.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar/heyiren_1400.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar/heyiren_2100.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar/heyiren_2100.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar/skin.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Avatar/skin.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonAcceleratorOverSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonAcceleratorOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonArrowOverSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonArrowOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonBrakeUpSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonBrakeUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonCameraCycleUpSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonCameraCycleUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonResetSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonResetSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonThumbstickOverSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonThumbstickOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonTimescaleSlowUpSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/ButtonTimescaleSlowUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/GDPR_Btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/GDPR_Btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/New Animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/New Animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/New Sprite Atlas.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Art/Sprites/New Sprite Atlas.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_RemoteRes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_RemoteRes/Image1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_RemoteRes/Image1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_RemoteRes/Image2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_RemoteRes/Image2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Include.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Include/new_shader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Include/new_shader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/New Shader Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/New Shader Graph.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/BurnNoise.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/BurnNoise.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/Noise.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/Noise.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/URP_BurnNoise.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/URP_BurnNoise.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/burn_noise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/burn_noise.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/fog_noise.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/fog_noise.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/water_noise.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Noise/water_noise.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/Brick_Diffuse.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/Brick_Diffuse.JPG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/Brick_Normal.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/Brick_Normal.JPG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap0.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap0.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap1.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap1.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/K_Quaternion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/K_Quaternion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/Quaternion.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/Quaternion.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/Quaternion.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/Quaternion.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/TestQuaternion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/TestQuaternion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/URP_Quaternion.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/URP_Quaternion.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph/Graphs_PointSG.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph/Graphs_PointSG.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph/PointSG.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph/PointSG.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph/ShaderGraph.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/ShaderGraph/ShaderGraph.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/Global Volume Profile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/Global Volume Profile.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/Lightmap-0_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/Lightmap-0_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/Lightmap-0_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/Lightmap-0_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Shadow/LightShadow/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/Stencil.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/Stencil.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/Stencil_Less_1.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/Stencil_Less_1.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/Stencil_Set_1.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/Stencil_Set_1.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/URP_Stencil_Less_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/URP_Stencil_Less_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/URP_Stencil_Set_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/Stencil/URP_Stencil_Set_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/NewSurfaceShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/NewSurfaceShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/Unlit_lit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/Unlit_lit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit/Global Volume Profile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Lit/lit/Global Volume Profile.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/URP_Unlit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/URP_Unlit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/Unlit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/Unlit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/Unlit.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/Unlit.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/Unlit.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/00_URP/URP_Unlit/Unlit.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute/TestCompute.compute" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute/TestCompute.compute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute/TestCompute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute/TestCompute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute/TestCompute.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestCompute/TestCompute.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/New Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/New Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/TestGray.compute" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/TestGray.compute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/TestGray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/TestGray.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/stage_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/01_Compute/TestGray/stage_circle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/CB-Procedural.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/CB-Procedural/CB-Procedural.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/CB-Procedural/CB-Procedural.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/CB-Procedural/CB_Procedural.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/CB-Procedural/CB_Procedural.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G0-DrawMesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G0-DrawMesh/DrawMesh.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G0-DrawMesh/DrawMesh.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G0-DrawMesh/DrawMesh.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G0-DrawMesh/DrawMesh.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_Simple.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_Simple.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_Simple.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_Simple.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_Simple.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_Simple.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_SimpleSurf.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_SimpleSurf.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_SimpleVF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G1-Instanced/Instance_SimpleVF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect_VF.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect_VF.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect_VF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G2-Indirect/Indirect_VF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_SimpleVF.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_SimpleVF.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_SimpleVF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_SimpleVF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_Surf.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_Surf.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_default.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/G3-Procedural/Procedural_default.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/InstancedIndirect.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Instanced_InstancedShader.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Instanced_InstancedShader.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Instanced_InstancedSurfaceShader.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Instanced_InstancedSurfaceShader.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Unity_Surf_Shader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Unity_Surf_Shader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Unity_VF_Shader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/02_Instance/Indirect/Unity_VF_Shader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/03_Dots.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/03_Dots/Dots.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/03_Dots/Dots.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/04_Particle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/04_Particle/Particle.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/04_Particle/Particle.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/05_Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/05_Animation/Animation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/05_Animation/Animation.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/06_Res.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/06_Res/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/06_Res/Res.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/06_Res/Res.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/01_Clock.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/01_Clock/Clock.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/01_Clock/Clock.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/FunctionLibrary.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/FunctionLibrary.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Graph.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Graph.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Graph.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Graph.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Lit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/02_Graph/Lit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/FunctionLibrary.compute" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/FunctionLibrary.compute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/GPUGraph.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/GPUGraph.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/GPUGraph.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/GPUGraph.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/new_shader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/03_GPUGraph/new_shader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/04_Jobs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/04_Jobs/Fractal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/04_Jobs/Fractal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/04_Jobs/JobsFractal.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/04_Jobs/JobsFractal.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/UI.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/07_CatLikeCoding/UI.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/00_ListAction.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/00_ListAction/Test_ListAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/00_ListAction/Test_ListAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/00_ListAction/Test_ListAction.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/00_ListAction/Test_ListAction.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/MainAni.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/MainAni.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/CustomPlayableExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/CustomPlayableExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Editor/SimpleAnimationComponent-Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Editor/SimpleAnimationComponent-Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Editor/SimpleAnimationEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Editor/SimpleAnimationEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimationComponent.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimationComponent.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimationPlayable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimationPlayable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimationPlayable_States.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimationPlayable_States.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimation_impl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/SimpleAnimation_impl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/AnimationProxy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/AnimationProxy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/IAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/IAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidAnimator.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidAnimator.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidGenericAnim.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidGenericAnim.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidGenericAnim.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidGenericAnim.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidLegacy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidLegacy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidLegacyAnim.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidLegacyAnim.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidSimpleAnimation.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/Complex/AndroidSimpleAnimation.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidAnimatorWithTransitions.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidAnimatorWithTransitions.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidGenericAnimWithTransitions.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidGenericAnimWithTransitions.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidLegacyWithTransitions.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidLegacyWithTransitions.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidSimpleAnimationWithTransitions.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/AndroidSimpleAnimationWithTransitions.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/SimpleAnimationTransitions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransition/SimpleAnimationTransitions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransitions.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/ComplexWithTransitions.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateAnimatorOnce.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateAnimatorOnce.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateAnimatorOnce.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateAnimatorOnce.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateAnimatorOnce.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateAnimatorOnce.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateLegacyOnce.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateLegacyOnce.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateLegacyOnce.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateLegacyOnce.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateSimpleAnimationOnce.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/PlayOnce/RotateSimpleAnimationOnce.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes/RotateAnimator.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes/RotateAnimator.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes/RotateLegacy.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes/RotateLegacy.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes/RotatingCubes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/RotateCubes/RotatingCubes.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/TestUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PerformanceTests/TestUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/BaseConditionsTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/BaseConditionsTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/ClipManagementTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/ClipManagementTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/ComparativeTestFixture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/ComparativeTestFixture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/DifferencesTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/DifferencesTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/MiscTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/MiscTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/PlaybackTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/PlaybackTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/QueueTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/QueueTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/StateAccessTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/ComparativeTests/StateAccessTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/FiresEvent.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/FiresEvent.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearX.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearX.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearXLegacy.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearXLegacy.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearY.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearY.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearZ.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/LinearZ.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/WithSimpleAnimation.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/Resources/WithSimpleAnimation.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/SimpleAnimationTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/PlaymodeTests/SimpleAnimationTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/SimpleAnimation-Tests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/SimpleAnimation-Tests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/SimpleAnimationProxy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/SimpleAnimationComponent/Tests/SimpleAnimationProxy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayOne.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayOne.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayable_1Layer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayable_1Layer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayable_2Layer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayable_2Layer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayable_2layer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/01_Playable/TestPlayable_2layer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/AniCtr_Walk.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/AniCtr_Walk.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/TestAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/TestAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/TestAnimator.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/TestAnimator.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/Text (TMP).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/02_Animator/Text (TMP).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/03_DynamicBatch.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/03_DynamicBatch/DynamicBatch.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/03_DynamicBatch/DynamicBatch.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/negx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/negx.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/negy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/negy.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/negz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/negz.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/posx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/posx.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/posy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/posy.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/posz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Cubemaps/posz.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox-PanoramicBeta.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox-PanoramicBeta.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox-PanoramicK.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox-PanoramicK.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox-PanoramicUrp.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox-PanoramicUrp.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox_PanoramicBeta.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox_PanoramicBeta.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox_PanoramicK.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox_PanoramicK.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox_PanoramicURP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/Skybox_PanoramicURP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/sky-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/sky-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/sky-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/sky-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/sky-cube.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/06_Skybox/sky-cube.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector/K_Projector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector/K_Projector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector/Projector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector/Projector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector/Projector.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/08_Projector/Projector.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/09_Collision.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/09_Collision/Collision.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/09_Collision/Collision.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/09_Collision/Collision.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/09_Collision/Collision.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/11_DelegateRemove.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/11_DelegateRemove/DelegateRemove.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/11_DelegateRemove/DelegateRemove.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/11_DelegateRemove/TestDelegateRemove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/11_DelegateRemove/TestDelegateRemove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/CtrAccelerometer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/CtrAccelerometer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/CtrGyroscope.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/CtrGyroscope.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/Lit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/Lit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/TestGyro.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/0__Other/TestGyro.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/10-Net.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/10-Net/TestNet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/10-Net/TestNet.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/FpsText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Study/FpsText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/_Study/00_URP/Quaternion/TestQuaternion.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Study/00_URP/NormalMap/NormalMap.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Study/0__Other/12_Video/TestVideo.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2Gt6mGybYXMP1sylJ5smfG92gHX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4611415c-30bb-4885-96d7-a45d9a5de8ee" name="Default Changelist" comment="" />
+      <created>1667195693721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667195693721</updated>
+      <workItem from="1667195701779" duration="2116000" />
+      <workItem from="1669292666201" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
