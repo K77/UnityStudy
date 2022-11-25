@@ -181,13 +181,16 @@
           <e p="11_DelegateRemove" t="Include">
             <e p="TestDelegateRemove.cs" t="Include" />
           </e>
+          <e p="12_ScrollRect_AutoAdsorption" t="Include">
+            <e p="ScrollRect_AutoAdsorption.cs" t="Include" />
+            <e p="Test_ScrollAuto.cs" t="Include" />
+          </e>
           <e p="12_Video" t="Include">
             <e p="TestVideo.cs" t="Include" />
           </e>
           <e p="CtrAccelerometer.cs" t="Include" />
           <e p="CtrGyroscope.cs" t="Include" />
         </e>
-        <e p="_Study" t="Include" />
         <e p="AddressableAssetsData" t="Include">
           <e p="Android" t="Include" />
           <e p="AssetGroups" t="Include">

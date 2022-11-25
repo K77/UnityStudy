@@ -33,10 +33,6 @@ MonoBehaviour:
     m_Address: GDPR_Btn
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: b1e98ec95484945c687af26747d76e12
-    m_Address: Image2
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 6c9c28711a98a4928a32b7293ff46552, type: 2}
   m_SchemaSet:
