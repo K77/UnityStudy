@@ -17,7 +17,7 @@ public class WaterCar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        mirror.transform.position = new Vector3(main.transform.position.x, -main.transform.hierarchyCapacity,
+        mirror.transform.position = new Vector3(main.transform.position.x, -main.transform.position.y,
             main.transform.position.z);
         mirror.transform.eulerAngles = new Vector3(-main.transform.eulerAngles.x, main.transform.eulerAngles.y,
             -main.transform.eulerAngles.z);

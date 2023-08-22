@@ -77,6 +77,15 @@
 
             real4 frag1(v2f i):SV_TARGET
             {
+                // float2 ab = ComputeNDCPos(i.positionCS);
+                // ab.y = 1-ab.y;
+                // // ab.x = 1-ab.x;
+                // i.texcoord = ab;
+                //if (i.texcoord.y <0 || i.texcoord.y>1)
+                {
+                    clip(i.texcoord.y);
+                    clip(1-i.texcoord.y);
+                }
                 Light mylight=GetMainLight();
                 float3 LightDirWS=normalize( mylight.direction);
                 float spe=dot(normalize(LightDirWS+i.viewDirWS),i.normalWS);//需要取正数
