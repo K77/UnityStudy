@@ -1,0 +1,10 @@
+using DOTS.DOD;
+
+#ROOTNAMESPACEBEGIN#
+
+public class #SCRIPTNAME# : AuthoringSceneSystemGroup
+{
+    protected override string AuthoringSceneName => "YourSceneName";
+}       
+
+#ROOTNAMESPACEEND#
