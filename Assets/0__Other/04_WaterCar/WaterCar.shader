@@ -36,6 +36,7 @@
         struct v2f
         {
             float4 positionCS:SV_POSITION;
+            float4 positionUV:TEXCOORD2;
             float3 normalWS:NORMAL;
             float3 viewDirWS:TEXCOORD0 ; 
             float2 texcoord:TEXCOORD1  ;
@@ -63,13 +64,14 @@
             {
                 v2f o;
                 o.positionCS=TransformObjectToHClip(i.positionOS.xyz);
+                o.positionUV=o.positionCS;
                 o.normalWS=TransformObjectToWorldNormal(i.normalOS,true);
                 o.viewDirWS=normalize(_WorldSpaceCameraPos.xyz-TransformObjectToWorld(i.positionOS.xyz));//得到世界空间的视图方向
 
-                float2 ab = ComputeNDCPos(o.positionCS);
-                ab.y = 1-ab.y;
-                // ab.x = 1-ab.x;
-                o.texcoord = ab;
+                // float2 ab = ComputeNDCPos(o.positionCS);
+                // ab.y = 1-ab.y;
+                // // ab.x = 1-ab.x;
+                // o.texcoord = ab;
             
                 // o.texcoord=TRANSFORM_TEX(i.texcoord,_MainTex);
                 return  o;
@@ -77,15 +79,17 @@
 
             real4 frag1(v2f i):SV_TARGET
             {
-                // float2 ab = ComputeNDCPos(i.positionCS);
-                // ab.y = 1-ab.y;
-                // // ab.x = 1-ab.x;
-                // i.texcoord = ab;
+                float2 ab = ComputeNDCPos(i.positionUV);
+                                // float2 ab = i.positionCS / 1000.0;
+
+                ab.y = 1-ab.y;
+                // ab.x = 1-ab.x;
+                i.texcoord = ab;
                 //if (i.texcoord.y <0 || i.texcoord.y>1)
-                {
-                    clip(i.texcoord.y);
-                    clip(1-i.texcoord.y);
-                }
+                // {
+                //     clip(i.texcoord.y);
+                //     clip(1-i.texcoord.y);
+                // }
                 Light mylight=GetMainLight();
                 float3 LightDirWS=normalize( mylight.direction);
                 float spe=dot(normalize(LightDirWS+i.viewDirWS),i.normalWS);//需要取正数
